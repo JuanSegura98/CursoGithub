@@ -83,3 +83,5 @@ Tomasito
 
 >>>>>>> 09b203d9f872e5789158bf372c7026ac680b74f0
 >>>>>>> 81fea5973ed130435857b10948a068e093bf3fa3
+
+Socorro estoy atrapado en un ordenador.
