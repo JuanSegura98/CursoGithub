@@ -18,8 +18,17 @@ Estábamos el otro día en el parque y me encontré una bici
 Estábamos el otro día en el parque...
 y apareció el Juanma húngaro.
 =======
+<<<<<<< HEAD
+Estábamos el otro día en el parque y me encontré una bici de colores
+Junto a ella había una niña
+=======
 Estábamos el otro día en el parque y me encontré una bici
+>>>>>>> da4739ef8dcb250de6eaf2993326e6ad28cfbe3b
+>>>>>>> d6e4d79e90e64dc1dfdeef2ceebeacf29316db85
+>>>>>>> 538e8f46036c89fe81a859519ca9dc977623509a
+=======
 
+>>>>>>> 09b203d9f872e5789158bf372c7026ac680b74f0
 =======
 Estábamos el otro día en el parque...
 y el Chispis estaba cookin' in da kitchen
