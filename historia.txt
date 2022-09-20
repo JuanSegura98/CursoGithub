@@ -7,21 +7,23 @@ y apareció el Juanma húngaro.
 Estábamos el otro día en el parque y me encontré una bici
 >>>>>>> 538e8f46036c89fe81a859519ca9dc977623509a
 =======
-Estábamos el otro día en el parque y me encontré una bici
+Estábamos el otro día en el parque...
+y el Chispis estaba cookin' in da kitchen
 Elver galarga
 Añadiendo disimuladamente una nueva línea
 >>>>>>> 6ff37f8fdc00d94caac3a1da4ed006f944d48a40
 =======
 Estábamos el otro día en el parque...
 paseando en monociclo
-<<<<<<< HEAD
->>>>>>> c8a50f044f1f46e2975cf642990d2bd1c31ce4a9
-=======
 
 
-
+Espabila
 
 
 
 Elver galarga
+<<<<<<< HEAD
 Y cayó una tromba de agua
+=======
+
+>>>>>>> 4bc7314e97d0756a9b7829d8f2fc33791b23dbd5
